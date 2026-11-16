@@ -1,0 +1,9 @@
+{
+  "name": "cloud-practice-5-variant10",
+  "version": "1.0.0",
+  "private": true,
+  "description": "№5 практикалық жұмыс, 10-нұсқа: файлдық сақтау",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "express": "^5.0.0" }
+}
